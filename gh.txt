@@ -1,0 +1,21 @@
+
+mkdir lear-gh 
+cd learn-gh 
+
+# login to github 
+gh auth login 
+gh auth login --hostname <hostname>
+
+gh auth status 
+
+
+gh config set editor
+
+#create a local repo : 
+git init -b mian
+
+
+#creat a remot repo 
+gh repo create learn-gh 
+
+
