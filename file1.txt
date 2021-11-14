@@ -1,2 +1,2 @@
-this is in line 1 by right panel 
-this is in line 1 by left panel 
+his is in line 1 by left panel 
+this is in line 1 by right panel
