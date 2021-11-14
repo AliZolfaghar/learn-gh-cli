@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-this is in line 1 by left panel 
-=======
 this is in line 1 by right panel 
-
->>>>>>> b413fb0c5402a6b23daace898c2b6abb03d30674
+this is in line 1 by left panel 
